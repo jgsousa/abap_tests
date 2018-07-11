@@ -1,7 +1,7 @@
 class ZCLBIL_CIT_GROUP_SERVICES definition
   public
   final
-  create public .
+  create public    .
 
 public section.
 protected section.
